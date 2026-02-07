@@ -29,5 +29,19 @@ person = {"name": "이세한", "age": 32, "nickname": "이세팟"}
 del person["age"]
 print(person)
 
+person = {"name": "이세한", "age": 32, "nickname": "이세팟"}
+del person["name"]
+print(person)
 
+person = {"name": "이세한", "age": 32, "nickname": "이세팟"}
+del person["nickname"]
+print(person)
+
+person = {"name": "이세한", "age": 32,"nickname": "이세팟", "hobby": "노래부르기"}
+del person["hobby"]
+print(person)
+
+person = {"name": "이세한", "age": 32, "nickname": "이세팟", "hobby": "노래부르기"}
+del person["nickname"]
+print(person)
 
