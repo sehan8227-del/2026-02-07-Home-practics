@@ -45,3 +45,40 @@ person = {"name": "이세한", "age": 32, "nickname": "이세팟", "hobby": "노
 del person["nickname"]
 print(person)
 
+person = {"name": "이세한", "age": 32, "nickname": "이세팟", "hobby": "노래부르기"}
+del person["age"]
+print(person)
+
+person = {"name": "이세한", "age": 32, "nickname": "이세팟", "hobby": "노래부르기"}
+del person["name"]
+print(person)
+
+person = {"name": "이세한", "age": 32, "nickname": "이세팟", "hobby": "노래부르기"}
+del person["age"]
+print(person)
+
+person = {"name": "이세한", "age": 32, "nickname": "이세팟", "hobby": "노래부르기"}
+del person["nickname"]
+print(person)
+
+person = {"name": "이세한", "age": 33, "nickname": "이세팟", "hobby": "노래부르기"}
+del person["nickname"]
+print(person)
+
+person = {"name": "이세한", "age": 33, "nickname": "세팟", "hobby": "자전거타기"}
+del person["nickname"]
+print(person)
+# 실험으로 여러 가지 넣어 봤는데, 
+
+# 2일차 반복훈련 A-07 완료 및 종료.
+# 2일차 반복훈련 A-08 시작
+person = {"name": "공욱재", "age": 26}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+#person 의 변수 정해진것을 .keys 메소드로 기능 시키고 print로 keys를 출력시키면 "name","age"의 문자열만 출력하네? 메소드 기능이 이런건가?
+
