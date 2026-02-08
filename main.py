@@ -82,3 +82,74 @@ print(keys)
 
 #person 의 변수 정해진것을 .keys 메소드로 기능 시키고 print로 keys를 출력시키면 "name","age"의 문자열만 출력하네? 메소드 기능이 이런건가?
 
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+# 잘 이해가 안되네
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys)
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+#뭘까? list의 person의 내용 중 key에 해당되는 기능을 실행시켜라 또한 이걸 keys란 변수로 지정하겠다 그래서 print를 이용해 key를 출력하면 keys의 행동인 name과 age만 출력된다 이건가?
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
+person = {"name": "이세한", "age": 32}
+keys = list(person.keys())
+print(keys)
+
